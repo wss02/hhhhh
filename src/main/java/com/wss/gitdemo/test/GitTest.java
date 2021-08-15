@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("make big money");
         System.out.println("I am master");
         System.out.println("I am master666");
+        System.out.println("I am dev");
+        System.out.println("I am dev666");
     }
 }
