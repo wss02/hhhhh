@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hard working，hard luckier");
         System.out.println("Winner is King");
         System.out.println("try harder");
+        System.out.println("make big money");
     }
 }
